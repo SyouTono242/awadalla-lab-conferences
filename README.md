@@ -1,7 +1,6 @@
 <div align="center">
 <h1>A List of Awesome Papers for an Awesome Lab</h1>
 </div>
-
 A curated list of conferences somewhat relevant to the Awadalla Lab... I'll probably find a way to automize updates sometime -- but not today. 
 All contributions welcomed. 
 
@@ -24,10 +23,11 @@ All contributions welcomed.
 
 ## Bioinformatics
 
-| Conference                                                   | Acronym | Deadline | Dates             | Location           | Regularity |
-| ------------------------------------------------------------ | ------- | -------- | ----------------- | ------------------ | ---------- |
-| [Research in Computational Molecular Biology](https://recomb.org/recomb2024/) | RECOMB  |          | April 26-29, 2025 | Seoul, Korea       | Annual     |
-| [European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025/home) | ECCB    |          | July 20-25, 2025  | Liverpool, England | Annual     |
+| Conference                                                   | Acronym | Deadline     | Dates             | Location           | Regularity |
+| ------------------------------------------------------------ | ------- | ------------ | ----------------- | ------------------ | ---------- |
+| [Research in Computational Molecular Biology](https://recomb.org/recomb2024/) | RECOMB  |              | April 26-29, 2025 | Seoul, Korea       | Annual     |
+| [European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025/home) | ECCB    |              | July 20-25, 2025  | Liverpool, England | Annual     |
+| [ACM Conference on Bioinformatics, Computational Biology, and Health Informatics](https://acm-bcb.org/) | ACM BCB | Sep 25, 2024 | Nov. 22-25, 2024  | Shenzhen, PR China | Annual     |
 
 ## Computer-Science-ish
 
@@ -35,5 +35,6 @@ All contributions welcomed.
 | ------------------------------------------------------------ | ------- | -------------- | --------------------------- | -------------------------- | ---------- |
 | [European Conference on Computer Vision](https://eccv.ecva.net/) | ECCV    |                | September 29-Oct 4, 2024    | Milan, Italy               | Annual     |
 | [Conference on Computer Vision and Pattern Recognition](https://www.thecvf.com/) | CVPR    |                | June 10–17, 2025            | Nashville, Tennessee       | Annual     |
-| [Annual AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-25/)           | AAAI    | August 7, 2024 | February 25 – March 4, 2025 | Philadelphia, Pennsylvania | Annual     |
+| [Annual AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-25/) | AAAI    | August 7, 2024 | February 25 – March 4, 2025 | Philadelphia, Pennsylvania | Annual     |
+| [International Conference on Computer Vision](https://www.thecvf.com/) | ICCV    |                | Oct 19-25, 2025             | Honolulu, Hawaii           | Annual     |
 
