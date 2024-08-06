@@ -6,10 +6,12 @@ All contributions welcomed.
 
 ## Cancer
 
-| Conference                                                   | Acronym | Deadline | Dates               | Location          | Regularity |
-| ------------------------------------------------------------ | ------- | -------- | ------------------- | ----------------- | ---------- |
-| [American Association for Cancer Research Annual Meeting](https://www.aacr.org/meeting/aacr-annual-meeting-2024/) | AACR    |          | April 25-30, 2025   | Chicago, IL       | Annual     |
-| [Early Cancer Detection Conference](https://www.earlydetectionresearch.com/) |         |          | October 22-24, 2024 | San Francisco, CA | Annual     |
+| Conference                                                   | Acronym | Deadline     | Dates                 | Location          | Regularity |
+| ------------------------------------------------------------ | ------- | ------------ | --------------------- | ----------------- | ---------- |
+| [American Association for Cancer Research Annual Meeting](https://www.aacr.org/meeting/aacr-annual-meeting-2024/) | AACR    |              | April 25-30, 2025     | Chicago, IL       | Annual     |
+| [American Society of Clinical Oncology Annual Meeting](https://conferences.asco.org/am/attend) | ASCO    | Jan 28, 2025 | May 30 - June 3, 2025 | Chicago, IL       | Annual     |
+| [European Society for Medical Oncology Congress](https://www.esmo.org/meeting-calendar/esmo-congress-2024) | ESMO    |              | Sep 13-17, 2024       | Barcelona, Spain  | Annual     |
+| [Early Cancer Detection Conference](https://www.earlydetectionresearch.com/) |         |              | October 22-24, 2024   | San Francisco, CA | Annual     |
 
 ## Genetics
 
