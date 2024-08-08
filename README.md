@@ -39,4 +39,5 @@ All contributions welcomed.
 | [Conference on Computer Vision and Pattern Recognition](https://www.thecvf.com/) | CVPR    |                | June 10–17, 2025            | Nashville, Tennessee       | Annual     |
 | [Annual AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-25/) | AAAI    | August 7, 2024 | February 25 – March 4, 2025 | Philadelphia, Pennsylvania | Annual     |
 | [International Conference on Computer Vision](https://www.thecvf.com/) | ICCV    |                | Oct 19-25, 2025             | Honolulu, Hawaii           | Annual     |
+| [International Conference on Machine Learning](https://icml.cc/Conferences/2024) | ICML    |                | July 11-19, 2025            | Vancouver, BC, Canada      | Annual     |
 
