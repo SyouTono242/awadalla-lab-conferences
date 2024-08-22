@@ -26,11 +26,12 @@ All contributions welcomed.
 
 ## Bioinformatics
 
-| Conference                                                   | Acronym | Deadline     | Dates             | Location           | Regularity |
-| ------------------------------------------------------------ | ------- | ------------ | ----------------- | ------------------ | ---------- |
-| [Research in Computational Molecular Biology](https://recomb.org/recomb2024/) | RECOMB  |              | April 26-29, 2025 | Seoul, Korea       | Annual     |
-| [European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025/home) | ECCB    |              | July 20-25, 2025  | Liverpool, England | Annual     |
-| [ACM Conference on Bioinformatics, Computational Biology, and Health Informatics](https://acm-bcb.org/) | ACM BCB | Sep 25, 2024 | Nov. 22-25, 2024  | Shenzhen, PR China | Annual     |
+| Conference                                                   | Acronym | Deadline                     | Dates             | Location                 | Regularity |
+| ------------------------------------------------------------ | ------- | ---------------------------- | ----------------- | ------------------------ | ---------- |
+| [Research in Computational Molecular Biology](https://recomb.org/recomb2024/) | RECOMB  |                              | April 26-29, 2025 | Seoul, Korea             | Annual     |
+| [European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025/home) | ECCB    |                              | July 20-25, 2025  | Liverpool, England       | Annual     |
+| [ACM Conference on Bioinformatics, Computational Biology, and Health Informatics](https://acm-bcb.org/) | ACM-BCB | Sep 25, 2024                 | Nov. 22-25, 2024  | Shenzhen, PR China       | Annual     |
+| [Pacific Symposium on Biocomputing](https://psb.stanford.edu/) | PSB     | Posters due December 2, 2024 | January 4-8, 2025 | The Big Island of Hawaii |            |
 
 ## Computer-Science-ish
 
