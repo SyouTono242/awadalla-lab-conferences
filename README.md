@@ -13,6 +13,7 @@ All contributions welcomed.
 | [European Society for Medical Oncology Congress](https://www.esmo.org/meeting-calendar/esmo-congress-2024) | ESMO    | May 13, 2025     | Oct 17-21, 2025       | Berlin, Germany       | Annual     |
 | [Early Cancer Detection Conference](https://www.earlydetectionresearch.com/) |         | Sometime in June | October 21-23, 2025   | Portland, OR          | Annual     |
 | [The Cancer Prevention Research Conference](https://www.cancerresearchuk.org/funding-for-researchers/research-events-and-conferences/the-cancer-prevention-research-conference) |         | March 16, 2025   | June 25-27, 2025      | London, UK            | Annual     |
+| [Canadian Cancer Research Conference](https://www.ccra-acrc.ca/conference/) | CCRC |  | November 2 – 4, 2025 | Calgary, Alberta | Biennial |
 ## Genetics
 
 | Conference                                                   | Acronym | Deadline         | Dates                 | Location           | Regularity |
