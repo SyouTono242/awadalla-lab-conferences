@@ -26,12 +26,13 @@ All contributions welcomed.
 
 ## Bioinformatics
 
-| Conference                                                   | Acronym | Deadline         | Dates             | Location                 | Regularity |
-| ------------------------------------------------------------ | ------- | ---------------- | ----------------- | ------------------------ | ---------- |
-| [Research in Computational Molecular Biology](https://recomb.org/recomb2025/) | RECOMB  | January 27, 2025 | April 26-29, 2025 | Seoul, Korea             | Annual     |
-| [European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025/home) | ECCB    | April 17, 2025   | July 20-24, 2025  | Liverpool, England       | Annual     |
-| [Pacific Symposium on Biocomputing](https://psb.stanford.edu/) | PSB     | December 2, 2024 | January 4-8, 2025 | The Big Island of Hawaii |            |
-| [The Medical Image Computing and Computer Assisted Intervention Society](https://miccai.org/) | MICCAI  | Feb 13, 2025     | Sep 23-17, 2025   | Daejeon, Korea           | Annual     |
+| Conference                                                   | Acronym | Deadline                                                   | Dates             | Location                 | Regularity |
+| ------------------------------------------------------------ | ------- | ---------------------------------------------------------- | ----------------- | ------------------------ | ---------- |
+| [Research in Computational Molecular Biology](https://recomb.org/recomb2025/) | RECOMB  | January 27, 2025                                           | April 26-29, 2025 | Seoul, Korea             | Annual     |
+| [European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025/home) | ECCB    | April 17, 2025                                             | July 20-24, 2025  | Liverpool, England       | Annual     |
+| [Pacific Symposium on Biocomputing](https://psb.stanford.edu/) | PSB     | December 2, 2024                                           | January 4-8, 2025 | The Big Island of Hawaii |            |
+| [The Medical Image Computing and Computer Assisted Intervention Society](https://miccai.org/) | MICCAI  | Feb 13, 2025                                               | Sep 23-17, 2025   | Daejeon, Korea           | Annual     |
+| [Medical Imaging with Deep Learning](https://2025.midl.io/)  | MIDL    | Jan 17, 2025 for full paper; April 11 2025 for short paper | July 9-11, 2025   | Salt Lake City, US       | Annual     |
 
 ## Computer-Science-ish
 
