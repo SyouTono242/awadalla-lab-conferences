@@ -8,10 +8,10 @@ All contributions welcomed.
 
 | Conference                                                   | Acronym | Deadline     | Dates                 | Location              | Regularity |
 | ------------------------------------------------------------ | ------- | ------------ | --------------------- | --------------------- | ---------- |
-| [American Association for Cancer Research Annual Meeting](https://www.aacr.org/meeting/aacr-annual-meeting-2024/) | AACR    |                  | April 25-30, 2025     | San Diego, California | Annual     |
+| [American Association for Cancer Research Annual Meeting](https://www.aacr.org/meeting/aacr-annual-meeting-2025/) | AACR    | Nov 26, 2024 | April 25-30, 2025     | San Diego, California | Annual     |
 | [American Society of Clinical Oncology Annual Meeting](https://conferences.asco.org/am/attend) | ASCO    | Jan 28, 2025     | May 30 - June 3, 2025 | Chicago, IL           | Annual     |
 | [European Society for Medical Oncology Congress](https://www.esmo.org/meeting-calendar/esmo-congress-2024) | ESMO    | May 13, 2025     | Oct 17-21, 2025       | Berlin, Germany       | Annual     |
-| [Early Cancer Detection Conference](https://www.earlydetectionresearch.com/) |         | Sometime in June | October 21-23, 2025   | Portland, OR          | Annual     |
+| [Early Cancer Detection Conference](https://www.earlydetectionresearch.com/) |         | March - sometime in June | October 21-23, 2025   | Portland, OR          | Annual     |
 | [The Cancer Prevention Research Conference](https://www.cancerresearchuk.org/funding-for-researchers/research-events-and-conferences/the-cancer-prevention-research-conference) |         | March 16, 2025   | June 25-27, 2025      | London, UK            | Annual     |
 | [Canadian Cancer Research Conference](https://www.ccra-acrc.ca/conference/) | CCRC |  | November 2 – 4, 2025 | Calgary, Alberta | Biennial |
 ## Genetics
@@ -20,7 +20,7 @@ All contributions welcomed.
 | ------------------------------------------------------------ | ------- | ---------------- | --------------------- | ------------------ | ---------- |
 | [American Society of Human Genetics Annual Meeting](https://www.ashg.org/meetings/2025meeting/) | ASHG    | June 9, 2025     | October 14-18, 2025   | Boston             | Annual     |
 | [European Society of Human Genetics Conference](https://2024.eshg.org/) | ESHG    | January 30, 2025 | May 24–27, 2025       | Milan, Italy       | Annual     |
-| [Human Cell Atlas General Meeting](https://events.humancellatlas.org/2024GM) | HCA     |                  | June 9 - 11, 2025     | Singapore          | Annual     |
+| [Human Cell Atlas General Meeting](https://events.humancellatlas.org/2024GM) | HCA     | March 28, 2025   | June 9 - 11, 2025     | Singapore          | Annual     |
 | [Single Cell Genomics](https://conferences.weizmann.ac.il/SCG2024/) | SCG     | 17 June 2024     | September 16-18, 2024 | Corinthia, Greece  | Annual     |
 | [International Conference on Intelligent Systems for Molecular Biology](https://www.iscb.org/ismbeccb2025/home) | ISMB    | April 17, 2025   | July 20-24, 2025      | Liverpool, England | Annual     |
 
@@ -31,6 +31,7 @@ All contributions welcomed.
 | [Research in Computational Molecular Biology](https://recomb.org/recomb2025/) | RECOMB  | January 27, 2025 | April 26-29, 2025 | Seoul, Korea             | Annual     |
 | [European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025/home) | ECCB    | April 17, 2025   | July 20-24, 2025  | Liverpool, England       | Annual     |
 | [Pacific Symposium on Biocomputing](https://psb.stanford.edu/) | PSB     | December 2, 2024 | January 4-8, 2025 | The Big Island of Hawaii |            |
+| [The Medical Image Computing and Computer Assisted Intervention Society](https://miccai.org/) | MICCAI  | Feb 13, 2025     | Sep 23-17, 2025   | Daejeon, Korea           | Annual     |
 
 ## Computer-Science-ish
 
