@@ -13,7 +13,7 @@ All contributions welcomed.
 | [European Society for Medical Oncology Congress](https://www.esmo.org/meeting-calendar/esmo-congress-2024) | ESMO    | May 13, 2025     | Oct 17-21, 2025       | Berlin, Germany       | Annual     |
 | [Early Cancer Detection Conference](https://www.earlydetectionresearch.com/) |         | March - sometime in June | October 21-23, 2025   | Portland, OR          | Annual     |
 | [The Cancer Prevention Research Conference](https://www.cancerresearchuk.org/funding-for-researchers/research-events-and-conferences/the-cancer-prevention-research-conference) |         | March 16, 2025   | June 25-27, 2025      | London, UK            | Annual     |
-| [Canadian Cancer Research Conference](https://www.ccra-acrc.ca/conference/) | CCRC |  | November 2 – 4, 2025 | Calgary, Alberta | Biennial |
+| [Canadian Cancer Research Conference](https://www.ccra-acrc.ca/conference/) | CCRC | June 6, 2025 | November 2 – 4, 2025 | Calgary, Alberta | Biennial |
 ## Genetics
 
 | Conference                                                   | Acronym | Deadline         | Dates                 | Location           | Regularity |
@@ -36,11 +36,13 @@ All contributions welcomed.
 
 ## Computer-Science-ish
 
-| Conference                                                   | Acronym | Deadline           | Dates                       | Location                   | Regularity |
-| ------------------------------------------------------------ | ------- | ------------------ | --------------------------- | -------------------------- | ---------- |
-| [European Conference on Computer Vision](https://eccv2024.ecva.net/Conferences/2026) | ECCV    | March 6, 2026      | September 8 – 13th, 2026    | Malmö, Sweden              | Biennial   |
-| [Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/) | CVPR    | November 7th, 2024 | June 11-15, 2025            | Nashville, Tennessee       | Annual     |
-| [Annual AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-25/) | AAAI    | August 7, 2024     | February 25 – March 4, 2025 | Philadelphia, Pennsylvania | Annual     |
-| [International Conference on Computer Vision](https://iccv.thecvf.com/) | ICCV    | Mar 07, 2025       | Oct 19-25, 2025             | Honolulu, Hawaii           | Annual     |
-| [International Conference on Machine Learning](https://icml.cc/Conferences/2025) | ICML    | Jan 23, 2025       | July 11-19, 2025            | Vancouver, BC, Canada      | Annual     |
+| Conference                                                   | Acronym | Deadline           | Dates                       | Location                   | Regularity | h5-index                                                     |
+| ------------------------------------------------------------ | ------- | ------------------ | --------------------------- | -------------------------- | ---------- | ------------------------------------------------------------ |
+| [Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/) | CVPR    | November 7th, 2024 | June 11-15, 2025            | Nashville, Tennessee       | Annual     | [440](https://scholar.google.com/citations?hl=en&vq=eng&view_op=list_hcore&venue=FXe-a9w0eycJ.2024) |
+| [Conference on Neural Information Processing Systems](https://neurips.cc/) | NeurIPS | May 11, 2025       | Dec 2 - 7, 2025             | San Diego                  | Annual     | [337](https://scholar.google.com/citations?hl=en&vq=eng&view_op=list_hcore&venue=6SgK_Z8h2_wJ.2024) |
+| [International Conference on Learning Representations](https://iclr.cc/) | ICLR    | Sep 27, 2024       | Apr 24 – 28, 2025           | Singapore                  | Annual     | [304](https://scholar.google.com/citations?hl=en&vq=eng&view_op=list_hcore&venue=0032SoU2xY4J.2024) |
+| [International Conference on Computer Vision](https://iccv.thecvf.com/) | ICCV    | Mar 07, 2025       | Oct 19-25, 2025             | Honolulu, Hawaii           | Annual     | [291](https://scholar.google.com/citations?hl=en&vq=eng&view_op=list_hcore&venue=Umlb1kMURG4J.2024) |
+| [International Conference on Machine Learning](https://icml.cc/Conferences/2025) | ICML    | Jan 23, 2025       | July 11-19, 2025            | Vancouver, BC, Canada      | Annual     | [268](https://scholar.google.com/citations?hl=en&vq=eng&view_op=list_hcore&venue=wL2oxc9mT4YJ.2024) |
+| [AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-25/) | AAAI    | August 7, 2024     | February 25 – March 4, 2025 | Philadelphia, Pennsylvania | Annual     | [220](https://scholar.google.com/citations?hl=en&vq=eng&view_op=list_hcore&venue=PV9sQN5dnPsJ.2024) |
+| [European Conference on Computer Vision](https://eccv2024.ecva.net/Conferences/2026) | ECCV    | March 6, 2026      | September 8 – 13th, 2026    | Malmö, Sweden              | Biennial   | [206](https://scholar.google.com/citations?hl=en&vq=eng&view_op=list_hcore&venue=cwIh2C-xo8kJ.2024) |
 
