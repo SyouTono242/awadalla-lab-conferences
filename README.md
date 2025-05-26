@@ -1,7 +1,7 @@
 <div align="center">
-<h1>A List of Awesome Conferences for an Awesome Lab</h1>
+<h1>Awesome Conferences for Awesome Lab(s)</h1>
 </div>
-A curated list of conferences somewhat relevant to the Awadalla Lab... I'll probably find a way to automize updates sometime -- but not today. 
+A curated list of conferences somewhat relevant to the Awadalla Lab (and some other labs maybe)... I'll probably find a way to automize updates sometime -- but not today. 
 All contributions welcomed. 
 
 ## Cancer
