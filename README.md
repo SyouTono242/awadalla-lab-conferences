@@ -27,13 +27,13 @@ All contributions welcomed.
 
 ## Bioinformatics
 
-| Conference                                                   | Acronym | Deadline                                                   | StartDate  | EndDate    | Location                 | Regularity |
-| ------------------------------------------------------------ | ------- | ---------------------------------------------------------- | ---------- | ---------- | ------------------------ | ---------- |
-| [Research in Computational Molecular Biology](https://recomb.org/recomb2025/) | RECOMB  | 2025-01-27                                                 | 2025-04-26 | 2025-04-29 | Seoul, Korea             | Annual     |
-| [European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025/home) | ECCB    | 2025-04-17                                                 | 2025-07-20 | 2025-07-24 | Liverpool, England       | Annual     |
-| [The Medical Image Computing and Computer Assisted Intervention Society](https://conferences.miccai.org/2025/en/) | MICCAI  | 2025-02-13                                                 | 2025-09-23 | 2025-09-27 | Daejeon, Korea           | Annual     |
-| [Pacific Symposium on Biocomputing](https://psb.stanford.edu/) | PSB     | 2025-08-01                                                 | 2026-01-03 | 2026-01-07 | The Big Island of Hawaii | Annual     |
-| [Medical Imaging with Deep Learning](https://2025.midl.io/)  | MIDL    | Jan 17, 2025 for full paper; April 11 2025 for short paper | 2025-07-09 | 2025-07-11 | Salt Lake City, US       | Annual     |
+| Conference                                                   | Acronym | Deadline   | StartDate  | EndDate    | Location                 | Regularity |
+| ------------------------------------------------------------ | ------- | ---------- | ---------- | ---------- | ------------------------ | ---------- |
+| [Research in Computational Molecular Biology](https://recomb.org/recomb2025/) | RECOMB  | 2025-01-27 | 2025-04-26 | 2025-04-29 | Seoul, Korea             | Annual     |
+| [European Conference on Computational Biology](https://www.iscb.org/ismbeccb2025/home) | ECCB    | 2025-04-17 | 2025-07-20 | 2025-07-24 | Liverpool, England       | Annual     |
+| [The Medical Image Computing and Computer Assisted Intervention Society](https://conferences.miccai.org/2025/en/) | MICCAI  | 2025-02-13 | 2025-09-23 | 2025-09-27 | Daejeon, Korea           | Annual     |
+| [Pacific Symposium on Biocomputing](https://psb.stanford.edu/) | PSB     | 2025-08-01 | 2026-01-03 | 2026-01-07 | The Big Island of Hawaii | Annual     |
+| [Medical Imaging with Deep Learning](https://2025.midl.io/)  | MIDL    | 2025-01-17 | 2025-07-09 | 2025-07-11 | Salt Lake City, US       | Annual     |
 
 ## Computer-Science-ish
 
@@ -41,12 +41,12 @@ Note that conferences in the computer science list are ordered by h5-index, sinc
 
 Values shown were obtained from [Google Scholar Engineering & Computer Science](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng). Last updated in May 2025 to cover articles published in 2019-2023.
 
-| ConferencConference                                          | Acronym | Deadline           | StartDate  | EndDate    | Location                   | Regularity | h5-index |
-| ------------------------------------------------------------ | ------- | ------------------ | ---------- | ---------- | -------------------------- | ---------- | -------- |
-| [Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/) | CVPR    | November 7th, 2024 | 2025-06-11 | 2025-07-15 | Nashville, Tennessee       | Annual     | 440      |
-| [Conference on Neural Information Processing Systems](https://neurips.cc/) | NeurIPS | 2025-05-11         | 2025-12-02 | 2025-12-07 | San Diego                  | Annual     | 337      |
-| [International Conference on Learning Representations](https://iclr.cc/) | ICLR    | 2024-09-27         | 2025-04-24 | 2025-04-28 | Singapore                  | Annual     | 304      |
-| [International Conference on Computer Vision](https://iccv.thecvf.com/) | ICCV    | 2025-03-07         | 2025-10-19 | 2025-10-25 | Honolulu, Hawaii           | Biennial   | 291      |
-| [International Conference on Machine Learning](https://icml.cc/Conferences/2025) | ICML    | 2025-01-23         | 2025-07-11 | 2025-07-19 | Vancouver, BC, Canada      | Annual     | 268      |
-| [AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-25/) | AAAI    | 2024-08-07         | 2025-02-25 | 2025-03-04 | Philadelphia, Pennsylvania | Annual     | 220      |
-| [European Conference on Computer Vision](https://eccv2024.ecva.net/Conferences/2026) | ECCV    | 2026-03-06         | 2026-09-08 | 2026-09-13 | Malmö, Sweden              | Biennial   | 206      |
+| ConferencConference                                          | Acronym | Deadline   | StartDate  | EndDate    | Location                   | Regularity | h5-index |
+| ------------------------------------------------------------ | ------- | ---------- | ---------- | ---------- | -------------------------- | ---------- | -------- |
+| [Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/) | CVPR    | 2024-11-07 | 2025-06-11 | 2025-07-15 | Nashville, Tennessee       | Annual     | 440      |
+| [Conference on Neural Information Processing Systems](https://neurips.cc/) | NeurIPS | 2025-05-11 | 2025-12-02 | 2025-12-07 | San Diego                  | Annual     | 337      |
+| [International Conference on Learning Representations](https://iclr.cc/) | ICLR    | 2024-09-27 | 2025-04-24 | 2025-04-28 | Singapore                  | Annual     | 304      |
+| [International Conference on Computer Vision](https://iccv.thecvf.com/) | ICCV    | 2025-03-07 | 2025-10-19 | 2025-10-25 | Honolulu, Hawaii           | Biennial   | 291      |
+| [International Conference on Machine Learning](https://icml.cc/Conferences/2025) | ICML    | 2025-01-23 | 2025-07-11 | 2025-07-19 | Vancouver, BC, Canada      | Annual     | 268      |
+| [AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-25/) | AAAI    | 2024-08-07 | 2025-02-25 | 2025-03-04 | Philadelphia, Pennsylvania | Annual     | 220      |
+| [European Conference on Computer Vision](https://eccv2024.ecva.net/Conferences/2026) | ECCV    | 2026-03-06 | 2026-09-08 | 2026-09-13 | Malmö, Sweden              | Biennial   | 206      |
