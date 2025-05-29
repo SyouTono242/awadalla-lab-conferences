@@ -37,7 +37,7 @@ All contributions welcomed.
 
 ## Computer-Science-ish
 
-Note that conferences in the computer science list are ordered by h5-index, since conference publications in CS are viewed equally, if not more important (wellllll I personally feel like usually more important), as journal papers. 
+Note that conferences in the computer science list are ordered by h5-index, since conference publications in CS are viewed equally, if not more important (wellllll I personally feel like usually more important), than journal papers. 
 
 Values shown were obtained from [Google Scholar Engineering & Computer Science](https://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng). Last updated in May 2025 to cover articles published in 2019-2023.
 
