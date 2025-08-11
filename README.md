@@ -1,9 +1,14 @@
-<div align="center">
-<h1>Awesome Conferences for Awesome Lab(s)</h1>
-</div>
+# Awesome CompBio Conferences [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of conferences somewhat relevant to the Awadalla Lab (and some other labs maybe)... `flag_outdated_entries.py` allows you to check for potentially outdated entries and URLs --- please run it from time to time + manual checks to make sure things are up-to-date. Entries are generally ordered based on their impact/reputation in the field (which is perceived by me so no guarantee lol).
 
 All contributions welcomed. 
+
+## Contents
+- [Cancer](#cancer)
+- [Genetics](#genetics)
+- [Bioinformatics](#bioinformatics)
+- [Computer-Science-ish](#computer-science-ish)
 
 ## Cancer
 
