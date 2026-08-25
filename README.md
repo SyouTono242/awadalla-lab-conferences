@@ -14,30 +14,30 @@ All contributions welcomed.
 
 | Conference                                                   | Acronym | Deadline   | StartDate  | EndDate    | Location              | Regularity |
 | ------------------------------------------------------------ | ------- | ------------ | --------------------- | --------------------- | ---------- | ------------------------------------------------------------ |
-| [American Society of Clinical Oncology Annual Meeting](https://conferences.asco.org/am/attend) | ASCO    | 2026-01? | 2026-05-25 | 2026-06-02 | Chicago, IL           | Annual     |
-| [American Association for Cancer Research Annual Meeting](https://www.aacr.org/meeting/aacr-annual-meeting-2026/) | AACR    | 2025-11? | 2026-04-17 | 2026-04-22 | San Diego, California | Annual     |
-| [European Society for Medical Oncology Congress](https://www.esmo.org/meeting-calendar/esmo-congress-2026) | ESMO    | 2026-05-12 | 2026-10-23 | 2026-10-27 | Madrid, Spain | Annual     |
+| [American Society of Clinical Oncology Annual Meeting](https://conferences.asco.org/am/attend) | ASCO    | 2027-01-26 | 2027-06-04 | 2027-06-08 | Chicago, IL           | Annual     |
+| [American Association for Cancer Research Annual Meeting](https://www.aacr.org/meeting/aacr-annual-meeting-2027/) | AACR    | 2026-11-10 | 2027-04-02 | 2027-04-07 | Orlando, Florida | Annual     |
+| [European Society for Medical Oncology Congress](https://www.esmo.org/meeting-calendar/esmo-congress-2027) | ESMO    | 2027-05? | 2027-09-17 | 2027-09-21 | Barcelona, Spain | Annual     |
 | [Early Cancer Detection Conference](https://www.earlydetectionresearch.com/) |         | 2026-06? | 2026-10-06 | 2026-10-08 | Edinburgh, UK | Annual     |
-| [The Cancer Prevention Research Conference](https://www.cancerresearchuk.org/funding-for-researchers/research-events-and-conferences/the-cancer-prevention-research-conference) |         | 2026-03-08 | 2026-06-03 | 2026-06-05 | Atlanta, USA | Annual     |
-| [Canadian Cancer Research Conference](https://www.ccra-acrc.ca/conference/) | CCRC    | 2025-06-06 | 2025-11-02 | 2025-11-04 | Calgary, Alberta      | Biennial   |
+| [The Cancer Prevention Research Conference](https://www.cancerresearchuk.org/funding-for-researchers/research-events-and-conferences/the-cancer-prevention-research-conference) |         | 2027-03? | 2027-06-23 | 2027-06-25 | London, UK | Annual     |
+| [Canadian Cancer Research Conference](https://www.ccra-acrc.ca/conference/) | CCRC    | 2027-06? | 2027-11-07 | 2029-11-09 | Montreal, Quebec | Biennial   |
 ## Genetics
 
-| Conference                                                   | Acronym | Deadline   | StartDate  | EndDate    | Location           |
-| ------------------------------------------------------------ | ------- | ---------- | ---------- | ---------- | ------------------ |
-| [American Society of Human Genetics Annual Meeting](https://www.ashg.org/annual-meeting-2026/) | ASHG    | 2026-05-18 | 2026-10-20 | 2026-10-24 | Montreal           |
-| [European Society of Human Genetics Conference](https://2026.eshg.org/) | ESHG    | 2026-02-12 | 2026-06-13 | 2026-06-16 | Gothenburg, Sweden |
-| [International Conference on Intelligent Systems for Molecular Biology](http://iscb.org/ismb2026/home) | ISMB    | 2026-04-09 | 2026-07-12 | 2026-07-16 | Washington, DC     |
-| [Human Cell Atlas General Meeting](https://events.humancellatlas.org/2026hcagm/) | HCA     | 2026-03?   | 2026-06-16 | 2026-06-18 | Boston, USA        |
+| Conference                                                   | Acronym | Deadline | StartDate  | EndDate    | Location                   |
+| ------------------------------------------------------------ | ------- | -------- | ---------- | ---------- | -------------------------- |
+| [American Society of Human Genetics Annual Meeting](https://ashgmeeting.ashg.org/) | ASHG    | 2027-05? | 2027-10-26 | 2027-10-30 | Nashville, TN              |
+| [European Society of Human Genetics Conference](https://2027.eshg.org/) | ESHG    | 2027-02? | 2027-06-12 | 2027-06-15 | Rotterdam, The Netherlands |
+| [International Conference on Intelligent Systems for Molecular Biology](https://www.iscb.org/ismbeccb2027/home) | ISMB    | 2027-04? | 2027-07-18 | 2027-07-22 | Copenhagen, Denmark        |
+| [Human Cell Atlas General Meeting](https://events.humancellatlas.org/2026hcagm/) | HCA     | 2027-03? | 2027-06-28 | 2027-06-30 | The Hague, the Netherlands |
 
 ## Bioinformatics
 
-| Conference                                                   | Acronym | Deadline   | StartDate  | EndDate    | Location                         | Regularity |
-| ------------------------------------------------------------ | ------- | ---------- | ---------- | ---------- | -------------------------------- | ---------- |
-| [Research in Computational Molecular Biology](https://recomb.org/recomb2026/) | RECOMB  | 2026-11-07 | 2026-05-26 | 2026-05-29 | Thessaloniki, Greece             | Annual     |
-| [European Conference on Computational Biology](https://eccb2026.org/) | ECCB    | 2026-03-05 | 2026-08-31 | 2026-09-04 | Geneva, Switzerland              | Annual     |
-| [The Medical Image Computing and Computer Assisted Intervention Society](https://conferences.miccai.org/2026/en/default.asp) | MICCAI  | 2026-02-12 | 2026-10-04 | 2026-10-08 | Abu Dhabi,  United Arab Emirates | Annual     |
-| [Pacific Symposium on Biocomputing](https://psb.stanford.edu/) | PSB     | 2026-02-17 | 2027-01-03 | 2027-01-07 | The Big Island of Hawaii         | Annual     |
-| [Medical Imaging with Deep Learning](https://2026.midl.io/)  | MIDL    | 2025-12-05 | 2026-07-08 | 2026-07-10 | Taipei                           | Annual     |
+| Conference                                                   | Acronym | Deadline   | StartDate  | EndDate    | Location                 | Regularity |
+| ------------------------------------------------------------ | ------- | ---------- | ---------- | ---------- | ------------------------ | ---------- |
+| [Research in Computational Molecular Biology](https://recomb.org/recomb2027/) | RECOMB  | 2026-10-28 | 2027-05-17 | 2026-05-29 | Toronto, Canada          | Annual     |
+| [European Conference on Computational Biology](https://www.iscb.org/ismbeccb2027/home) | ECCB    | 2027-04?   | 2027-07-18 | 2027-07-22 | Copenhagen, Denmark      | Annual     |
+| [The Medical Image Computing and Computer Assisted Intervention Society](https://conferences.miccai.org/2026/en/default.asp) | MICCAI  | 2027-02?   | 2027-09-27 | 2027-10-01 | Auckland, New Zealand    | Annual     |
+| [Pacific Symposium on Biocomputing](https://psb.stanford.edu/) | PSB     | 2026-02-17 | 2027-01-03 | 2027-01-07 | The Big Island of Hawaii | Annual     |
+| [Medical Imaging with Deep Learning](https://2027.midl.io/)  | MIDL    | 2026-12?   | 2027-07-14 | 2027-07-16 | Porto                    | Annual     |
 
 ## Computer-Science-ish
 
